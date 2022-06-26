@@ -14,7 +14,6 @@ class node
         node *left;
         node *right;
         char val;
-
 };
 
 bool BFS(node *n, char val)
